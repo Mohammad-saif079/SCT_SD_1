@@ -3,7 +3,7 @@ from PIL import Image,ImageTk
 
 
 root=Tk()
-root.title("Temperature Converter")
+root.title("Temperature Converter tool")
 root.geometry("500x300")
 root.config(bg="white")
 root.resizable(False,False)
